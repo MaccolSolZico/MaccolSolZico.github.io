@@ -1,5 +1,6 @@
 {
     "version": "v1.1.9",
+    "notes": "",
     "platforms": {
         "windows-x86_64": {
             "url": "https://github.com/MaccolSolZico/loa-logs-kr/releases/download/v1.1.9/LOA.Logs.KR_1.1.9_x64-setup.nsis.zip",
